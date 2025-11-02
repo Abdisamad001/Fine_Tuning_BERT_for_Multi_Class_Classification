@@ -9,9 +9,7 @@ This repository demonstrates how to fine-tune the BERT (Bidirectional Encoder Re
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 
 ## Overview
