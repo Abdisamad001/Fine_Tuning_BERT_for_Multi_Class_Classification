@@ -5,7 +5,7 @@
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-Latest-yellow)
 ![NLP](https://img.shields.io/badge/NLP-BERT-orange)
 
-This repository demonstrates how to fine-tune the BERT (Bidirectional Encoder Representations from Transformers) model for multi-class classification tasks using Python and deep learning libraries. The project is intended for data scientists, machine learning practitioners, and NLP enthusiasts who want to leverage transformer-based architectures for categorizing text into multiple classes.
+This repository demonstrates how to fine-tune the BERT (Bidirectional Encoder Representations from Transformers) model for multi-class classification tasks using Python and deep learning libraries. 
 
 ## Table of Contents
 - [Overview](#overview)
