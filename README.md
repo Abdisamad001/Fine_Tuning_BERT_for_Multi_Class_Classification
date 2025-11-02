@@ -33,11 +33,7 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
- **Run Training:**  
-   Use the main training script (e.g., `train.py`):
-```bash
-   python train.py
-```
+
 
 ## Dataset
 
