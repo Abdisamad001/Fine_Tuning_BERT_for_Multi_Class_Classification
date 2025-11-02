@@ -7,10 +7,6 @@
 
 This repository demonstrates how to fine-tune the BERT (Bidirectional Encoder Representations from Transformers) model for multi-class classification tasks using Python and deep learning libraries. The project is intended for data scientists, machine learning practitioners, and NLP enthusiasts who want to leverage transformer-based architectures for categorizing text into multiple classes.
 
-## 🏷️ Tags
-
-`BERT` `NLP` `Deep Learning` `Multi-Class Classification` `Transformers` `PyTorch` `Text Classification` `Fine-Tuning` `Machine Learning` `Natural Language Processing` `Hugging Face` `Transfer Learning` `Sentiment Analysis` `Python`
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
